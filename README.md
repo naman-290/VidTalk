@@ -2,7 +2,7 @@
 
 Link - http://localhost:3000
 
-Link - https://vidtalk-naman.onrender.com
+Link - https://vidtalk-heybro0737.onrender.com/
 
 
 ## How to use 
